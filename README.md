@@ -1,0 +1,1 @@
+A few learning examples taken from https://github.com/python-openxml/python-docx/issues/320 on how to add equations correctly to docx files using python-docx
